@@ -8,7 +8,7 @@ HighTechU Official Website GitHub Repository
 
 * [Kiara](https://github.com/kiaralee)
 * [Andrew](https://github.com/theportablegeek)
-* [Dom](https://github.com/flytewizard)
+* [Dominique](https://github.com/flytewizard)
 
 ## Maintainers
 
